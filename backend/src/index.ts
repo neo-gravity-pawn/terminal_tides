@@ -1,4 +1,4 @@
-import { rootRequestHandler } from "#be/handler/requestHandler.js";
+import { rootRequestHandler } from "#handler/requestHandler.js";
 import express from "express";
 
 const app = express();
